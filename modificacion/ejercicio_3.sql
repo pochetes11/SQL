@@ -1,4 +1,7 @@
-DELETE FROM user
-WHERE id = 1
+DELETE FROM user WHERE username = "loca";
 
-DELETE FROM post WHERE title LIKE "%tapon";
+DELETE FROM user WHERE username = "caco";
+
+DELETE FROM user WHERE username = "mateo";
+
+DELETE FROM user WHERE username = "mateo01";
